@@ -1,0 +1,7 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  margin: 5px;
+}

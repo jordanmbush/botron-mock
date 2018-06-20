@@ -1,0 +1,15 @@
+.frame {
+  width: 80%;
+  min-height: 50vh;
+  padding: 15px;
+  margin: auto;
+  background-image: url(https://www.botron.com/wp-content/themes/Cutline/Cutline%201.1/images/striped_bg.jpg);
+  background-position: center;
+  background-size: contain;
+}
+.page {
+  width: 98%;
+  height: 100%;
+  background-color: white;
+  padding: 10px;
+}
